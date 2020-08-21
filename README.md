@@ -7,7 +7,7 @@
 </p>
 
 <h4 align="center">Hola, Soy Roxi! 
-Lic. en sistemas de Informacion a quien le apasiona ejercer la profesion de la ing de softwares , crear tecnología para ayudar a las personas y construir una comunidad mas accesibles para todos. </h4>
+Lic. en sistemas de Información a quien le apasiona ejercer la profesion de la ingeniería de software , crear tecnología para ayudar a las personas y construir una comunidad mas accesibles para todos. </h4>
 
 📫Encuéntrame en la web :
 
