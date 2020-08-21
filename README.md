@@ -1,6 +1,6 @@
 
 # Bienvenidos!! 👋🏾 👩🏾‍💻
-![banner](https://user-images.githubusercontent.com/14293128/90837421-5dcaf300-e328-11ea-9873-a427ddee1085.PNG)
+![banner2](https://user-images.githubusercontent.com/14293128/90842229-244cb480-e335-11ea-8dc3-ea54b1b7ec4a.png)
 
 Hola, Soy Roxi! 
 Lic. en sistemas de Informacion a quien le apasiona ejercer la profesion de la ing de softwares , crear tecnología para ayudar a las personas y construir una comunidad mas accesibles para todos. 
