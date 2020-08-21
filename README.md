@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bienvenidos!! 👋🏾 👩🏾‍💻
+![banner](https://user-images.githubusercontent.com/14293128/90837421-5dcaf300-e328-11ea-9873-a427ddee1085.PNG)
 
-<!--
-**RoxanaGarcia/RoxanaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, Yo soy Roxi! 
+Lic. en sistemas de software a quien le apasiona hacer que el código abierto sea más accesible, crear tecnología para ayudar a las personas y construir una comunidad mas accesibles para todos. 
 
-Here are some ideas to get you started:
+Encuéntrame en la web 🌎:
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.RoxanaGarcia">RoxanaGarcia</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Compartiendo actualizaciones en <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+⭐️ From [RoxanaGarcia](https://github.com/RoxanaGarcia)
